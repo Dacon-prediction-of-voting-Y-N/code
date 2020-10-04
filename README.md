@@ -1,7 +1,7 @@
 # 업데이트 하는 방법
 
 ###  1. git init
-###  2. git remote add origin master https://github.com/Dacon-prediction-of-voting-Y-N/code.git
+###  2. git remote add origin https://github.com/Dacon-prediction-of-voting-Y-N/code.git
 ###  3. git pull 👈 중요 할때 마다 무조건 꼭 해야됨
 ###  4. git add 자기 파일명 -->ex) git add baselinecode.ipynb
 ###  5. git commit -m "적을 메세지" --> 메세지 적을 때 자기 이름 적기
